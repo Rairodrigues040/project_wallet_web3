@@ -49,7 +49,7 @@ export default function Wallet() {
 
         <div>
           <p className="text-sm font-medium text-white">
-            Saldo disponível
+            Saldo:
           </p>
 
           <p className="mt-1 text-xl font-bold tracking-tight text-white ">
@@ -65,7 +65,7 @@ export default function Wallet() {
     {/* Endereço */}
     <div className="p-5 sm:p-6">
       <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-white">
-        Endereço da carteira
+        Endereço:
       </p>
 
       <div className="rounded-xl bg-gray-50 p-2">
